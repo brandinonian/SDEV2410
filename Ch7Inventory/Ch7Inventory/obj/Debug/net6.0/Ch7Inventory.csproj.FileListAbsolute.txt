@@ -1,0 +1,15 @@
+D:\school\SDEV2410\Ch7Inventory\Ch7Inventory\bin\Debug\net6.0\Ch7Inventory.exe
+D:\school\SDEV2410\Ch7Inventory\Ch7Inventory\bin\Debug\net6.0\Ch7Inventory.deps.json
+D:\school\SDEV2410\Ch7Inventory\Ch7Inventory\bin\Debug\net6.0\Ch7Inventory.runtimeconfig.json
+D:\school\SDEV2410\Ch7Inventory\Ch7Inventory\bin\Debug\net6.0\Ch7Inventory.dll
+D:\school\SDEV2410\Ch7Inventory\Ch7Inventory\bin\Debug\net6.0\Ch7Inventory.pdb
+D:\school\SDEV2410\Ch7Inventory\Ch7Inventory\obj\Debug\net6.0\Ch7Inventory.csproj.AssemblyReference.cache
+D:\school\SDEV2410\Ch7Inventory\Ch7Inventory\obj\Debug\net6.0\Ch7Inventory.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\SDEV2410\Ch7Inventory\Ch7Inventory\obj\Debug\net6.0\Ch7Inventory.AssemblyInfoInputs.cache
+D:\school\SDEV2410\Ch7Inventory\Ch7Inventory\obj\Debug\net6.0\Ch7Inventory.AssemblyInfo.cs
+D:\school\SDEV2410\Ch7Inventory\Ch7Inventory\obj\Debug\net6.0\Ch7Inventory.csproj.CoreCompileInputs.cache
+D:\school\SDEV2410\Ch7Inventory\Ch7Inventory\obj\Debug\net6.0\Ch7Inventory.dll
+D:\school\SDEV2410\Ch7Inventory\Ch7Inventory\obj\Debug\net6.0\refint\Ch7Inventory.dll
+D:\school\SDEV2410\Ch7Inventory\Ch7Inventory\obj\Debug\net6.0\Ch7Inventory.pdb
+D:\school\SDEV2410\Ch7Inventory\Ch7Inventory\obj\Debug\net6.0\Ch7Inventory.genruntimeconfig.cache
+D:\school\SDEV2410\Ch7Inventory\Ch7Inventory\obj\Debug\net6.0\ref\Ch7Inventory.dll

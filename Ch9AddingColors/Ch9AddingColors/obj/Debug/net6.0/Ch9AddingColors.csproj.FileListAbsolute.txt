@@ -1,0 +1,30 @@
+/Volumes/Samsung USB/school/SDEV2410/Ch9AddingColors/Ch9AddingColors/obj/Debug/net6.0/Ch9AddingColors.csproj.AssemblyReference.cache
+/Volumes/Samsung USB/school/SDEV2410/Ch9AddingColors/Ch9AddingColors/obj/Debug/net6.0/Ch9AddingColors.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Samsung USB/school/SDEV2410/Ch9AddingColors/Ch9AddingColors/obj/Debug/net6.0/Ch9AddingColors.AssemblyInfoInputs.cache
+/Volumes/Samsung USB/school/SDEV2410/Ch9AddingColors/Ch9AddingColors/obj/Debug/net6.0/Ch9AddingColors.AssemblyInfo.cs
+/Volumes/Samsung USB/school/SDEV2410/Ch9AddingColors/Ch9AddingColors/obj/Debug/net6.0/Ch9AddingColors.csproj.CoreCompileInputs.cache
+/Volumes/Samsung USB/school/SDEV2410/Ch9AddingColors/Ch9AddingColors/bin/Debug/net6.0/Ch9AddingColors
+/Volumes/Samsung USB/school/SDEV2410/Ch9AddingColors/Ch9AddingColors/bin/Debug/net6.0/Ch9AddingColors.deps.json
+/Volumes/Samsung USB/school/SDEV2410/Ch9AddingColors/Ch9AddingColors/bin/Debug/net6.0/Ch9AddingColors.runtimeconfig.json
+/Volumes/Samsung USB/school/SDEV2410/Ch9AddingColors/Ch9AddingColors/bin/Debug/net6.0/Ch9AddingColors.dll
+/Volumes/Samsung USB/school/SDEV2410/Ch9AddingColors/Ch9AddingColors/bin/Debug/net6.0/Ch9AddingColors.pdb
+/Volumes/Samsung USB/school/SDEV2410/Ch9AddingColors/Ch9AddingColors/obj/Debug/net6.0/Ch9AddingColors.dll
+/Volumes/Samsung USB/school/SDEV2410/Ch9AddingColors/Ch9AddingColors/obj/Debug/net6.0/refint/Ch9AddingColors.dll
+/Volumes/Samsung USB/school/SDEV2410/Ch9AddingColors/Ch9AddingColors/obj/Debug/net6.0/Ch9AddingColors.pdb
+/Volumes/Samsung USB/school/SDEV2410/Ch9AddingColors/Ch9AddingColors/obj/Debug/net6.0/Ch9AddingColors.genruntimeconfig.cache
+/Volumes/Samsung USB/school/SDEV2410/Ch9AddingColors/Ch9AddingColors/obj/Debug/net6.0/ref/Ch9AddingColors.dll
+D:\school\SDEV2410\Ch9AddingColors\Ch9AddingColors\bin\Debug\net6.0\Ch9AddingColors.exe
+D:\school\SDEV2410\Ch9AddingColors\Ch9AddingColors\bin\Debug\net6.0\Ch9AddingColors.deps.json
+D:\school\SDEV2410\Ch9AddingColors\Ch9AddingColors\bin\Debug\net6.0\Ch9AddingColors.runtimeconfig.json
+D:\school\SDEV2410\Ch9AddingColors\Ch9AddingColors\bin\Debug\net6.0\Ch9AddingColors.dll
+D:\school\SDEV2410\Ch9AddingColors\Ch9AddingColors\bin\Debug\net6.0\Ch9AddingColors.pdb
+D:\school\SDEV2410\Ch9AddingColors\Ch9AddingColors\obj\Debug\net6.0\Ch9AddingColors.csproj.AssemblyReference.cache
+D:\school\SDEV2410\Ch9AddingColors\Ch9AddingColors\obj\Debug\net6.0\Ch9AddingColors.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\SDEV2410\Ch9AddingColors\Ch9AddingColors\obj\Debug\net6.0\Ch9AddingColors.AssemblyInfoInputs.cache
+D:\school\SDEV2410\Ch9AddingColors\Ch9AddingColors\obj\Debug\net6.0\Ch9AddingColors.AssemblyInfo.cs
+D:\school\SDEV2410\Ch9AddingColors\Ch9AddingColors\obj\Debug\net6.0\Ch9AddingColors.csproj.CoreCompileInputs.cache
+D:\school\SDEV2410\Ch9AddingColors\Ch9AddingColors\obj\Debug\net6.0\Ch9AddingColors.dll
+D:\school\SDEV2410\Ch9AddingColors\Ch9AddingColors\obj\Debug\net6.0\refint\Ch9AddingColors.dll
+D:\school\SDEV2410\Ch9AddingColors\Ch9AddingColors\obj\Debug\net6.0\Ch9AddingColors.pdb
+D:\school\SDEV2410\Ch9AddingColors\Ch9AddingColors\obj\Debug\net6.0\Ch9AddingColors.genruntimeconfig.cache
+D:\school\SDEV2410\Ch9AddingColors\Ch9AddingColors\obj\Debug\net6.0\ref\Ch9AddingColors.dll

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{9139C982-5169-4A01-931F-92D3EA7C5A94}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ch11CompanyPotluck/Program.cs">
+    <Files>
+      <File FileName="Ch11CompanyPotluck/Attendee.cs" Line="1" Column="1" />
+      <File FileName="Ch11CompanyPotluck/Program.cs" Line="36" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ch11CompanyPotluck" expanded="True">
+            <Node name="Ch11CompanyPotluck" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Ch11CompanyPotluck PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{B336D51F-1196-470A-B7BD-9BF528417E38}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ch8Costs/Program.cs">
+    <Files>
+      <File FileName="Ch8Costs/Program.cs" Line="29" Column="51" />
+      <File FileName="Ch8Costs/Repair.cs" Line="34" Column="28" />
+      <File FileName="Ch8Costs/Hardware.cs" Line="15" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ch8Costs" expanded="True">
+            <Node name="Ch8Costs" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Ch8Costs PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

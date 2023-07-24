@@ -1,0 +1,15 @@
+D:\school\SDEV2410\Ch9PayrollCategories\Ch9PayrollCategories\bin\Debug\net6.0\Ch9PayrollCategories.exe
+D:\school\SDEV2410\Ch9PayrollCategories\Ch9PayrollCategories\bin\Debug\net6.0\Ch9PayrollCategories.deps.json
+D:\school\SDEV2410\Ch9PayrollCategories\Ch9PayrollCategories\bin\Debug\net6.0\Ch9PayrollCategories.runtimeconfig.json
+D:\school\SDEV2410\Ch9PayrollCategories\Ch9PayrollCategories\bin\Debug\net6.0\Ch9PayrollCategories.dll
+D:\school\SDEV2410\Ch9PayrollCategories\Ch9PayrollCategories\bin\Debug\net6.0\Ch9PayrollCategories.pdb
+D:\school\SDEV2410\Ch9PayrollCategories\Ch9PayrollCategories\obj\Debug\net6.0\Ch9PayrollCategories.csproj.AssemblyReference.cache
+D:\school\SDEV2410\Ch9PayrollCategories\Ch9PayrollCategories\obj\Debug\net6.0\Ch9PayrollCategories.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\SDEV2410\Ch9PayrollCategories\Ch9PayrollCategories\obj\Debug\net6.0\Ch9PayrollCategories.AssemblyInfoInputs.cache
+D:\school\SDEV2410\Ch9PayrollCategories\Ch9PayrollCategories\obj\Debug\net6.0\Ch9PayrollCategories.AssemblyInfo.cs
+D:\school\SDEV2410\Ch9PayrollCategories\Ch9PayrollCategories\obj\Debug\net6.0\Ch9PayrollCategories.csproj.CoreCompileInputs.cache
+D:\school\SDEV2410\Ch9PayrollCategories\Ch9PayrollCategories\obj\Debug\net6.0\Ch9PayrollCategories.dll
+D:\school\SDEV2410\Ch9PayrollCategories\Ch9PayrollCategories\obj\Debug\net6.0\refint\Ch9PayrollCategories.dll
+D:\school\SDEV2410\Ch9PayrollCategories\Ch9PayrollCategories\obj\Debug\net6.0\Ch9PayrollCategories.pdb
+D:\school\SDEV2410\Ch9PayrollCategories\Ch9PayrollCategories\obj\Debug\net6.0\Ch9PayrollCategories.genruntimeconfig.cache
+D:\school\SDEV2410\Ch9PayrollCategories\Ch9PayrollCategories\obj\Debug\net6.0\ref\Ch9PayrollCategories.dll

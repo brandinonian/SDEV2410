@@ -1,0 +1,15 @@
+D:\school\SDEV2410\Ch8MPG\Ch8MPG\bin\Debug\net6.0\Ch8MPG.exe
+D:\school\SDEV2410\Ch8MPG\Ch8MPG\bin\Debug\net6.0\Ch8MPG.deps.json
+D:\school\SDEV2410\Ch8MPG\Ch8MPG\bin\Debug\net6.0\Ch8MPG.runtimeconfig.json
+D:\school\SDEV2410\Ch8MPG\Ch8MPG\bin\Debug\net6.0\Ch8MPG.dll
+D:\school\SDEV2410\Ch8MPG\Ch8MPG\bin\Debug\net6.0\Ch8MPG.pdb
+D:\school\SDEV2410\Ch8MPG\Ch8MPG\obj\Debug\net6.0\Ch8MPG.csproj.AssemblyReference.cache
+D:\school\SDEV2410\Ch8MPG\Ch8MPG\obj\Debug\net6.0\Ch8MPG.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\SDEV2410\Ch8MPG\Ch8MPG\obj\Debug\net6.0\Ch8MPG.AssemblyInfoInputs.cache
+D:\school\SDEV2410\Ch8MPG\Ch8MPG\obj\Debug\net6.0\Ch8MPG.AssemblyInfo.cs
+D:\school\SDEV2410\Ch8MPG\Ch8MPG\obj\Debug\net6.0\Ch8MPG.csproj.CoreCompileInputs.cache
+D:\school\SDEV2410\Ch8MPG\Ch8MPG\obj\Debug\net6.0\Ch8MPG.dll
+D:\school\SDEV2410\Ch8MPG\Ch8MPG\obj\Debug\net6.0\refint\Ch8MPG.dll
+D:\school\SDEV2410\Ch8MPG\Ch8MPG\obj\Debug\net6.0\Ch8MPG.pdb
+D:\school\SDEV2410\Ch8MPG\Ch8MPG\obj\Debug\net6.0\Ch8MPG.genruntimeconfig.cache
+D:\school\SDEV2410\Ch8MPG\Ch8MPG\obj\Debug\net6.0\ref\Ch8MPG.dll

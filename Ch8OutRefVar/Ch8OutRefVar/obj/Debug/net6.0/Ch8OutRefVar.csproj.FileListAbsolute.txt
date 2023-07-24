@@ -1,0 +1,15 @@
+D:\school\SDEV2410\Ch8OutRefVar\Ch8OutRefVar\obj\Debug\net6.0\Ch8OutRefVar.csproj.AssemblyReference.cache
+D:\school\SDEV2410\Ch8OutRefVar\Ch8OutRefVar\obj\Debug\net6.0\Ch8OutRefVar.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\SDEV2410\Ch8OutRefVar\Ch8OutRefVar\obj\Debug\net6.0\Ch8OutRefVar.AssemblyInfoInputs.cache
+D:\school\SDEV2410\Ch8OutRefVar\Ch8OutRefVar\obj\Debug\net6.0\Ch8OutRefVar.AssemblyInfo.cs
+D:\school\SDEV2410\Ch8OutRefVar\Ch8OutRefVar\obj\Debug\net6.0\Ch8OutRefVar.csproj.CoreCompileInputs.cache
+D:\school\SDEV2410\Ch8OutRefVar\Ch8OutRefVar\bin\Debug\net6.0\Ch8OutRefVar.exe
+D:\school\SDEV2410\Ch8OutRefVar\Ch8OutRefVar\bin\Debug\net6.0\Ch8OutRefVar.deps.json
+D:\school\SDEV2410\Ch8OutRefVar\Ch8OutRefVar\bin\Debug\net6.0\Ch8OutRefVar.runtimeconfig.json
+D:\school\SDEV2410\Ch8OutRefVar\Ch8OutRefVar\bin\Debug\net6.0\Ch8OutRefVar.dll
+D:\school\SDEV2410\Ch8OutRefVar\Ch8OutRefVar\bin\Debug\net6.0\Ch8OutRefVar.pdb
+D:\school\SDEV2410\Ch8OutRefVar\Ch8OutRefVar\obj\Debug\net6.0\Ch8OutRefVar.dll
+D:\school\SDEV2410\Ch8OutRefVar\Ch8OutRefVar\obj\Debug\net6.0\refint\Ch8OutRefVar.dll
+D:\school\SDEV2410\Ch8OutRefVar\Ch8OutRefVar\obj\Debug\net6.0\Ch8OutRefVar.pdb
+D:\school\SDEV2410\Ch8OutRefVar\Ch8OutRefVar\obj\Debug\net6.0\Ch8OutRefVar.genruntimeconfig.cache
+D:\school\SDEV2410\Ch8OutRefVar\Ch8OutRefVar\obj\Debug\net6.0\ref\Ch8OutRefVar.dll

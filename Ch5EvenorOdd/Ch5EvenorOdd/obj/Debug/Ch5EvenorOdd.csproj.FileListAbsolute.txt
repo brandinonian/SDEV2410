@@ -1,0 +1,10 @@
+D:\school\SDEV2410\Ch5EvenorOdd\Ch5EvenorOdd\bin\Debug\Ch5EvenorOdd.exe.config
+D:\school\SDEV2410\Ch5EvenorOdd\Ch5EvenorOdd\bin\Debug\Ch5EvenorOdd.exe
+D:\school\SDEV2410\Ch5EvenorOdd\Ch5EvenorOdd\bin\Debug\Ch5EvenorOdd.pdb
+D:\school\SDEV2410\Ch5EvenorOdd\Ch5EvenorOdd\obj\Debug\Ch5EvenorOdd.csproj.CoreCompileInputs.cache
+D:\school\SDEV2410\Ch5EvenorOdd\Ch5EvenorOdd\obj\Debug\Ch5EvenorOdd.exe
+D:\school\SDEV2410\Ch5EvenorOdd\Ch5EvenorOdd\obj\Debug\Ch5EvenorOdd.pdb
+D:\school\SDEV2410\Ch5EvenorOdd\Ch5EvenorOdd\obj\Debug\Ch5EvenorOdd.csprojAssemblyReference.cache
+D:\school\SDEV2410\Ch5EvenorOdd\Ch5EvenorOdd\bin\Debug\System.ValueTuple.dll
+D:\school\SDEV2410\Ch5EvenorOdd\Ch5EvenorOdd\bin\Debug\System.ValueTuple.xml
+D:\school\SDEV2410\Ch5EvenorOdd\Ch5EvenorOdd\obj\Debug\Ch5EvenorOdd.csproj.CopyComplete

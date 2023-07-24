@@ -1,0 +1,15 @@
+D:\school\SDEV2410\Ch11CompanyPotluck\Ch11CompanyPotluck\bin\Debug\net6.0\Ch11CompanyPotluck.exe
+D:\school\SDEV2410\Ch11CompanyPotluck\Ch11CompanyPotluck\bin\Debug\net6.0\Ch11CompanyPotluck.deps.json
+D:\school\SDEV2410\Ch11CompanyPotluck\Ch11CompanyPotluck\bin\Debug\net6.0\Ch11CompanyPotluck.runtimeconfig.json
+D:\school\SDEV2410\Ch11CompanyPotluck\Ch11CompanyPotluck\bin\Debug\net6.0\Ch11CompanyPotluck.dll
+D:\school\SDEV2410\Ch11CompanyPotluck\Ch11CompanyPotluck\bin\Debug\net6.0\Ch11CompanyPotluck.pdb
+D:\school\SDEV2410\Ch11CompanyPotluck\Ch11CompanyPotluck\obj\Debug\net6.0\Ch11CompanyPotluck.csproj.AssemblyReference.cache
+D:\school\SDEV2410\Ch11CompanyPotluck\Ch11CompanyPotluck\obj\Debug\net6.0\Ch11CompanyPotluck.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\SDEV2410\Ch11CompanyPotluck\Ch11CompanyPotluck\obj\Debug\net6.0\Ch11CompanyPotluck.AssemblyInfoInputs.cache
+D:\school\SDEV2410\Ch11CompanyPotluck\Ch11CompanyPotluck\obj\Debug\net6.0\Ch11CompanyPotluck.AssemblyInfo.cs
+D:\school\SDEV2410\Ch11CompanyPotluck\Ch11CompanyPotluck\obj\Debug\net6.0\Ch11CompanyPotluck.csproj.CoreCompileInputs.cache
+D:\school\SDEV2410\Ch11CompanyPotluck\Ch11CompanyPotluck\obj\Debug\net6.0\Ch11CompanyPotluck.dll
+D:\school\SDEV2410\Ch11CompanyPotluck\Ch11CompanyPotluck\obj\Debug\net6.0\refint\Ch11CompanyPotluck.dll
+D:\school\SDEV2410\Ch11CompanyPotluck\Ch11CompanyPotluck\obj\Debug\net6.0\Ch11CompanyPotluck.pdb
+D:\school\SDEV2410\Ch11CompanyPotluck\Ch11CompanyPotluck\obj\Debug\net6.0\Ch11CompanyPotluck.genruntimeconfig.cache
+D:\school\SDEV2410\Ch11CompanyPotluck\Ch11CompanyPotluck\obj\Debug\net6.0\ref\Ch11CompanyPotluck.dll

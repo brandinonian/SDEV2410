@@ -1,0 +1,15 @@
+D:\school\SDEV2410\Ch9AnnualRaises\Ch9AnnualRaises\bin\Debug\net6.0\Ch9AnnualRaises.exe
+D:\school\SDEV2410\Ch9AnnualRaises\Ch9AnnualRaises\bin\Debug\net6.0\Ch9AnnualRaises.deps.json
+D:\school\SDEV2410\Ch9AnnualRaises\Ch9AnnualRaises\bin\Debug\net6.0\Ch9AnnualRaises.runtimeconfig.json
+D:\school\SDEV2410\Ch9AnnualRaises\Ch9AnnualRaises\bin\Debug\net6.0\Ch9AnnualRaises.dll
+D:\school\SDEV2410\Ch9AnnualRaises\Ch9AnnualRaises\bin\Debug\net6.0\Ch9AnnualRaises.pdb
+D:\school\SDEV2410\Ch9AnnualRaises\Ch9AnnualRaises\obj\Debug\net6.0\Ch9AnnualRaises.csproj.AssemblyReference.cache
+D:\school\SDEV2410\Ch9AnnualRaises\Ch9AnnualRaises\obj\Debug\net6.0\Ch9AnnualRaises.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\SDEV2410\Ch9AnnualRaises\Ch9AnnualRaises\obj\Debug\net6.0\Ch9AnnualRaises.AssemblyInfoInputs.cache
+D:\school\SDEV2410\Ch9AnnualRaises\Ch9AnnualRaises\obj\Debug\net6.0\Ch9AnnualRaises.AssemblyInfo.cs
+D:\school\SDEV2410\Ch9AnnualRaises\Ch9AnnualRaises\obj\Debug\net6.0\Ch9AnnualRaises.csproj.CoreCompileInputs.cache
+D:\school\SDEV2410\Ch9AnnualRaises\Ch9AnnualRaises\obj\Debug\net6.0\Ch9AnnualRaises.dll
+D:\school\SDEV2410\Ch9AnnualRaises\Ch9AnnualRaises\obj\Debug\net6.0\refint\Ch9AnnualRaises.dll
+D:\school\SDEV2410\Ch9AnnualRaises\Ch9AnnualRaises\obj\Debug\net6.0\Ch9AnnualRaises.pdb
+D:\school\SDEV2410\Ch9AnnualRaises\Ch9AnnualRaises\obj\Debug\net6.0\Ch9AnnualRaises.genruntimeconfig.cache
+D:\school\SDEV2410\Ch9AnnualRaises\Ch9AnnualRaises\obj\Debug\net6.0\ref\Ch9AnnualRaises.dll

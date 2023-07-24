@@ -1,0 +1,15 @@
+D:\school\SDEV2410\Ch12VehiclesFleet\Ch12VehiclesFleet\bin\Debug\net6.0\Ch12VehiclesFleet.exe
+D:\school\SDEV2410\Ch12VehiclesFleet\Ch12VehiclesFleet\bin\Debug\net6.0\Ch12VehiclesFleet.deps.json
+D:\school\SDEV2410\Ch12VehiclesFleet\Ch12VehiclesFleet\bin\Debug\net6.0\Ch12VehiclesFleet.runtimeconfig.json
+D:\school\SDEV2410\Ch12VehiclesFleet\Ch12VehiclesFleet\bin\Debug\net6.0\Ch12VehiclesFleet.dll
+D:\school\SDEV2410\Ch12VehiclesFleet\Ch12VehiclesFleet\bin\Debug\net6.0\Ch12VehiclesFleet.pdb
+D:\school\SDEV2410\Ch12VehiclesFleet\Ch12VehiclesFleet\obj\Debug\net6.0\Ch12VehiclesFleet.csproj.AssemblyReference.cache
+D:\school\SDEV2410\Ch12VehiclesFleet\Ch12VehiclesFleet\obj\Debug\net6.0\Ch12VehiclesFleet.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\SDEV2410\Ch12VehiclesFleet\Ch12VehiclesFleet\obj\Debug\net6.0\Ch12VehiclesFleet.AssemblyInfoInputs.cache
+D:\school\SDEV2410\Ch12VehiclesFleet\Ch12VehiclesFleet\obj\Debug\net6.0\Ch12VehiclesFleet.AssemblyInfo.cs
+D:\school\SDEV2410\Ch12VehiclesFleet\Ch12VehiclesFleet\obj\Debug\net6.0\Ch12VehiclesFleet.csproj.CoreCompileInputs.cache
+D:\school\SDEV2410\Ch12VehiclesFleet\Ch12VehiclesFleet\obj\Debug\net6.0\Ch12VehiclesFleet.dll
+D:\school\SDEV2410\Ch12VehiclesFleet\Ch12VehiclesFleet\obj\Debug\net6.0\refint\Ch12VehiclesFleet.dll
+D:\school\SDEV2410\Ch12VehiclesFleet\Ch12VehiclesFleet\obj\Debug\net6.0\Ch12VehiclesFleet.pdb
+D:\school\SDEV2410\Ch12VehiclesFleet\Ch12VehiclesFleet\obj\Debug\net6.0\Ch12VehiclesFleet.genruntimeconfig.cache
+D:\school\SDEV2410\Ch12VehiclesFleet\Ch12VehiclesFleet\obj\Debug\net6.0\ref\Ch12VehiclesFleet.dll

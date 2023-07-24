@@ -1,0 +1,15 @@
+D:\school\SDEV2410\M5CompetencyAwards\M5CompetencyAwards\obj\Debug\net6.0\M5CompetencyAwards.csproj.AssemblyReference.cache
+D:\school\SDEV2410\M5CompetencyAwards\M5CompetencyAwards\obj\Debug\net6.0\M5CompetencyAwards.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\SDEV2410\M5CompetencyAwards\M5CompetencyAwards\obj\Debug\net6.0\M5CompetencyAwards.AssemblyInfoInputs.cache
+D:\school\SDEV2410\M5CompetencyAwards\M5CompetencyAwards\obj\Debug\net6.0\M5CompetencyAwards.AssemblyInfo.cs
+D:\school\SDEV2410\M5CompetencyAwards\M5CompetencyAwards\obj\Debug\net6.0\M5CompetencyAwards.csproj.CoreCompileInputs.cache
+D:\school\SDEV2410\M5CompetencyAwards\M5CompetencyAwards\bin\Debug\net6.0\M5CompetencyAwards.exe
+D:\school\SDEV2410\M5CompetencyAwards\M5CompetencyAwards\bin\Debug\net6.0\M5CompetencyAwards.deps.json
+D:\school\SDEV2410\M5CompetencyAwards\M5CompetencyAwards\bin\Debug\net6.0\M5CompetencyAwards.runtimeconfig.json
+D:\school\SDEV2410\M5CompetencyAwards\M5CompetencyAwards\bin\Debug\net6.0\M5CompetencyAwards.dll
+D:\school\SDEV2410\M5CompetencyAwards\M5CompetencyAwards\bin\Debug\net6.0\M5CompetencyAwards.pdb
+D:\school\SDEV2410\M5CompetencyAwards\M5CompetencyAwards\obj\Debug\net6.0\M5CompetencyAwards.dll
+D:\school\SDEV2410\M5CompetencyAwards\M5CompetencyAwards\obj\Debug\net6.0\refint\M5CompetencyAwards.dll
+D:\school\SDEV2410\M5CompetencyAwards\M5CompetencyAwards\obj\Debug\net6.0\M5CompetencyAwards.pdb
+D:\school\SDEV2410\M5CompetencyAwards\M5CompetencyAwards\obj\Debug\net6.0\M5CompetencyAwards.genruntimeconfig.cache
+D:\school\SDEV2410\M5CompetencyAwards\M5CompetencyAwards\obj\Debug\net6.0\ref\M5CompetencyAwards.dll

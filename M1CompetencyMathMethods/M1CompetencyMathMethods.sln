@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33423.255
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M1CompetencyMathMethods", "M1CompetencyMathMethods\M1CompetencyMathMethods.csproj", "{4CBE39CE-9F79-49BA-BE4B-C6343AD8ABFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CBE39CE-9F79-49BA-BE4B-C6343AD8ABFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CBE39CE-9F79-49BA-BE4B-C6343AD8ABFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CBE39CE-9F79-49BA-BE4B-C6343AD8ABFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CBE39CE-9F79-49BA-BE4B-C6343AD8ABFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {677A3690-3848-4F82-84CF-5B54D5D8DC4F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+D:\school\SDEV2410\Ch3OverloadedMPGMethod\Ch3OverloadedMPGMethod\bin\Debug\Ch3OverloadedMPGMethod.exe.config
+D:\school\SDEV2410\Ch3OverloadedMPGMethod\Ch3OverloadedMPGMethod\bin\Debug\Ch3OverloadedMPGMethod.exe
+D:\school\SDEV2410\Ch3OverloadedMPGMethod\Ch3OverloadedMPGMethod\bin\Debug\Ch3OverloadedMPGMethod.pdb
+D:\school\SDEV2410\Ch3OverloadedMPGMethod\Ch3OverloadedMPGMethod\obj\Debug\Ch3OverloadedMPGMethod.csproj.CoreCompileInputs.cache
+D:\school\SDEV2410\Ch3OverloadedMPGMethod\Ch3OverloadedMPGMethod\obj\Debug\Ch3OverloadedMPGMethod.exe
+D:\school\SDEV2410\Ch3OverloadedMPGMethod\Ch3OverloadedMPGMethod\obj\Debug\Ch3OverloadedMPGMethod.pdb

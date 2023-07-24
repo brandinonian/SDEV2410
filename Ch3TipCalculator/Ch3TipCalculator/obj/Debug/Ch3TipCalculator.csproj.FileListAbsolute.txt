@@ -1,0 +1,7 @@
+D:\school\SDEV2410\Ch3TipCalculator\Ch3TipCalculator\bin\Debug\Ch3TipCalculator.exe.config
+D:\school\SDEV2410\Ch3TipCalculator\Ch3TipCalculator\bin\Debug\Ch3TipCalculator.exe
+D:\school\SDEV2410\Ch3TipCalculator\Ch3TipCalculator\bin\Debug\Ch3TipCalculator.pdb
+D:\school\SDEV2410\Ch3TipCalculator\Ch3TipCalculator\obj\Debug\Ch3TipCalculator.csprojAssemblyReference.cache
+D:\school\SDEV2410\Ch3TipCalculator\Ch3TipCalculator\obj\Debug\Ch3TipCalculator.csproj.CoreCompileInputs.cache
+D:\school\SDEV2410\Ch3TipCalculator\Ch3TipCalculator\obj\Debug\Ch3TipCalculator.exe
+D:\school\SDEV2410\Ch3TipCalculator\Ch3TipCalculator\obj\Debug\Ch3TipCalculator.pdb

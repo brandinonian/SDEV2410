@@ -1,0 +1,30 @@
+/Volumes/Samsung USB/school/SDEV2410/Ch11CleanUserResponses/Ch11CleanUserResponses/bin/Debug/net6.0/Ch11CleanUserResponses
+/Volumes/Samsung USB/school/SDEV2410/Ch11CleanUserResponses/Ch11CleanUserResponses/bin/Debug/net6.0/Ch11CleanUserResponses.deps.json
+/Volumes/Samsung USB/school/SDEV2410/Ch11CleanUserResponses/Ch11CleanUserResponses/bin/Debug/net6.0/Ch11CleanUserResponses.runtimeconfig.json
+/Volumes/Samsung USB/school/SDEV2410/Ch11CleanUserResponses/Ch11CleanUserResponses/bin/Debug/net6.0/Ch11CleanUserResponses.dll
+/Volumes/Samsung USB/school/SDEV2410/Ch11CleanUserResponses/Ch11CleanUserResponses/bin/Debug/net6.0/Ch11CleanUserResponses.pdb
+/Volumes/Samsung USB/school/SDEV2410/Ch11CleanUserResponses/Ch11CleanUserResponses/obj/Debug/net6.0/Ch11CleanUserResponses.csproj.AssemblyReference.cache
+/Volumes/Samsung USB/school/SDEV2410/Ch11CleanUserResponses/Ch11CleanUserResponses/obj/Debug/net6.0/Ch11CleanUserResponses.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Samsung USB/school/SDEV2410/Ch11CleanUserResponses/Ch11CleanUserResponses/obj/Debug/net6.0/Ch11CleanUserResponses.AssemblyInfoInputs.cache
+/Volumes/Samsung USB/school/SDEV2410/Ch11CleanUserResponses/Ch11CleanUserResponses/obj/Debug/net6.0/Ch11CleanUserResponses.AssemblyInfo.cs
+/Volumes/Samsung USB/school/SDEV2410/Ch11CleanUserResponses/Ch11CleanUserResponses/obj/Debug/net6.0/Ch11CleanUserResponses.csproj.CoreCompileInputs.cache
+/Volumes/Samsung USB/school/SDEV2410/Ch11CleanUserResponses/Ch11CleanUserResponses/obj/Debug/net6.0/Ch11CleanUserResponses.dll
+/Volumes/Samsung USB/school/SDEV2410/Ch11CleanUserResponses/Ch11CleanUserResponses/obj/Debug/net6.0/refint/Ch11CleanUserResponses.dll
+/Volumes/Samsung USB/school/SDEV2410/Ch11CleanUserResponses/Ch11CleanUserResponses/obj/Debug/net6.0/Ch11CleanUserResponses.pdb
+/Volumes/Samsung USB/school/SDEV2410/Ch11CleanUserResponses/Ch11CleanUserResponses/obj/Debug/net6.0/Ch11CleanUserResponses.genruntimeconfig.cache
+/Volumes/Samsung USB/school/SDEV2410/Ch11CleanUserResponses/Ch11CleanUserResponses/obj/Debug/net6.0/ref/Ch11CleanUserResponses.dll
+D:\school\SDEV2410\Ch11CleanUserResponses\Ch11CleanUserResponses\bin\Debug\net6.0\Ch11CleanUserResponses.exe
+D:\school\SDEV2410\Ch11CleanUserResponses\Ch11CleanUserResponses\bin\Debug\net6.0\Ch11CleanUserResponses.deps.json
+D:\school\SDEV2410\Ch11CleanUserResponses\Ch11CleanUserResponses\bin\Debug\net6.0\Ch11CleanUserResponses.runtimeconfig.json
+D:\school\SDEV2410\Ch11CleanUserResponses\Ch11CleanUserResponses\bin\Debug\net6.0\Ch11CleanUserResponses.dll
+D:\school\SDEV2410\Ch11CleanUserResponses\Ch11CleanUserResponses\bin\Debug\net6.0\Ch11CleanUserResponses.pdb
+D:\school\SDEV2410\Ch11CleanUserResponses\Ch11CleanUserResponses\obj\Debug\net6.0\Ch11CleanUserResponses.csproj.AssemblyReference.cache
+D:\school\SDEV2410\Ch11CleanUserResponses\Ch11CleanUserResponses\obj\Debug\net6.0\Ch11CleanUserResponses.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\SDEV2410\Ch11CleanUserResponses\Ch11CleanUserResponses\obj\Debug\net6.0\Ch11CleanUserResponses.AssemblyInfoInputs.cache
+D:\school\SDEV2410\Ch11CleanUserResponses\Ch11CleanUserResponses\obj\Debug\net6.0\Ch11CleanUserResponses.AssemblyInfo.cs
+D:\school\SDEV2410\Ch11CleanUserResponses\Ch11CleanUserResponses\obj\Debug\net6.0\Ch11CleanUserResponses.csproj.CoreCompileInputs.cache
+D:\school\SDEV2410\Ch11CleanUserResponses\Ch11CleanUserResponses\obj\Debug\net6.0\Ch11CleanUserResponses.dll
+D:\school\SDEV2410\Ch11CleanUserResponses\Ch11CleanUserResponses\obj\Debug\net6.0\refint\Ch11CleanUserResponses.dll
+D:\school\SDEV2410\Ch11CleanUserResponses\Ch11CleanUserResponses\obj\Debug\net6.0\Ch11CleanUserResponses.pdb
+D:\school\SDEV2410\Ch11CleanUserResponses\Ch11CleanUserResponses\obj\Debug\net6.0\Ch11CleanUserResponses.genruntimeconfig.cache
+D:\school\SDEV2410\Ch11CleanUserResponses\Ch11CleanUserResponses\obj\Debug\net6.0\ref\Ch11CleanUserResponses.dll

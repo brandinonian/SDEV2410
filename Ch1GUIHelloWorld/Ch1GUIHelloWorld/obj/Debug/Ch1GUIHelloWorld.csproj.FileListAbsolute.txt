@@ -1,0 +1,10 @@
+D:\school\SDEV2410\Ch1GUIHelloWorld\Ch1GUIHelloWorld\bin\Debug\Ch1GUIHelloWorld.exe.config
+D:\school\SDEV2410\Ch1GUIHelloWorld\Ch1GUIHelloWorld\bin\Debug\Ch1GUIHelloWorld.exe
+D:\school\SDEV2410\Ch1GUIHelloWorld\Ch1GUIHelloWorld\bin\Debug\Ch1GUIHelloWorld.pdb
+D:\school\SDEV2410\Ch1GUIHelloWorld\Ch1GUIHelloWorld\obj\Debug\Ch1GUIHelloWorld.csprojAssemblyReference.cache
+D:\school\SDEV2410\Ch1GUIHelloWorld\Ch1GUIHelloWorld\obj\Debug\Ch1GUIHelloWorld.Form1.resources
+D:\school\SDEV2410\Ch1GUIHelloWorld\Ch1GUIHelloWorld\obj\Debug\Ch1GUIHelloWorld.Properties.Resources.resources
+D:\school\SDEV2410\Ch1GUIHelloWorld\Ch1GUIHelloWorld\obj\Debug\Ch1GUIHelloWorld.csproj.GenerateResource.cache
+D:\school\SDEV2410\Ch1GUIHelloWorld\Ch1GUIHelloWorld\obj\Debug\Ch1GUIHelloWorld.csproj.CoreCompileInputs.cache
+D:\school\SDEV2410\Ch1GUIHelloWorld\Ch1GUIHelloWorld\obj\Debug\Ch1GUIHelloWorld.exe
+D:\school\SDEV2410\Ch1GUIHelloWorld\Ch1GUIHelloWorld\obj\Debug\Ch1GUIHelloWorld.pdb

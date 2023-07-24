@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{A73ECA13-077B-4D9D-B07F-70BF7F8E2A5D}|Default">
+  <MonoDevelop.Ide.ItemProperties.Ch13BankAccounts PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ch13BankAccounts/Program.cs">
+    <Files>
+      <File FileName="Ch13BankAccounts/Program.cs" Line="27" Column="44" />
+      <File FileName="Ch13BankAccounts/Savings.cs" />
+      <File FileName="Ch13BankAccounts/Credit.cs" />
+      <File FileName="Ch13BankAccounts/Checking.cs" Line="56" Column="72" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ch13BankAccounts" expanded="True">
+            <Node name="Ch13BankAccounts" expanded="True">
+              <Node name="BankAccount.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

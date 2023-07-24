@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{A81A14AC-885C-4287-A60B-444AF1B3BFDE}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ch10Inventory/Program.cs">
+    <Files>
+      <File FileName="Ch10Inventory/Program.cs" Line="76" Column="33" />
+      <File FileName="Ch10Inventory/Item.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ch10Inventory" expanded="True">
+            <Node name="Ch10Inventory" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Ch10Inventory PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

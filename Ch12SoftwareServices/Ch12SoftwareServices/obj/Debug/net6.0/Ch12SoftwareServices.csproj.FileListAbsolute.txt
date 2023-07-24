@@ -1,0 +1,15 @@
+D:\school\SDEV2410\Ch12SoftwareServices\Ch12SoftwareServices\bin\Debug\net6.0\Ch12SoftwareServices.exe
+D:\school\SDEV2410\Ch12SoftwareServices\Ch12SoftwareServices\bin\Debug\net6.0\Ch12SoftwareServices.deps.json
+D:\school\SDEV2410\Ch12SoftwareServices\Ch12SoftwareServices\bin\Debug\net6.0\Ch12SoftwareServices.runtimeconfig.json
+D:\school\SDEV2410\Ch12SoftwareServices\Ch12SoftwareServices\bin\Debug\net6.0\Ch12SoftwareServices.dll
+D:\school\SDEV2410\Ch12SoftwareServices\Ch12SoftwareServices\bin\Debug\net6.0\Ch12SoftwareServices.pdb
+D:\school\SDEV2410\Ch12SoftwareServices\Ch12SoftwareServices\obj\Debug\net6.0\Ch12SoftwareServices.csproj.AssemblyReference.cache
+D:\school\SDEV2410\Ch12SoftwareServices\Ch12SoftwareServices\obj\Debug\net6.0\Ch12SoftwareServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\SDEV2410\Ch12SoftwareServices\Ch12SoftwareServices\obj\Debug\net6.0\Ch12SoftwareServices.AssemblyInfoInputs.cache
+D:\school\SDEV2410\Ch12SoftwareServices\Ch12SoftwareServices\obj\Debug\net6.0\Ch12SoftwareServices.AssemblyInfo.cs
+D:\school\SDEV2410\Ch12SoftwareServices\Ch12SoftwareServices\obj\Debug\net6.0\Ch12SoftwareServices.csproj.CoreCompileInputs.cache
+D:\school\SDEV2410\Ch12SoftwareServices\Ch12SoftwareServices\obj\Debug\net6.0\Ch12SoftwareServices.dll
+D:\school\SDEV2410\Ch12SoftwareServices\Ch12SoftwareServices\obj\Debug\net6.0\refint\Ch12SoftwareServices.dll
+D:\school\SDEV2410\Ch12SoftwareServices\Ch12SoftwareServices\obj\Debug\net6.0\Ch12SoftwareServices.pdb
+D:\school\SDEV2410\Ch12SoftwareServices\Ch12SoftwareServices\obj\Debug\net6.0\Ch12SoftwareServices.genruntimeconfig.cache
+D:\school\SDEV2410\Ch12SoftwareServices\Ch12SoftwareServices\obj\Debug\net6.0\ref\Ch12SoftwareServices.dll

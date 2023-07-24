@@ -1,0 +1,7 @@
+D:\school\SDEV2410\Ch6FixThis\Ch6FixThis\bin\Debug\Ch6FixThis.exe.config
+D:\school\SDEV2410\Ch6FixThis\Ch6FixThis\bin\Debug\Ch6FixThis.exe
+D:\school\SDEV2410\Ch6FixThis\Ch6FixThis\bin\Debug\Ch6FixThis.pdb
+D:\school\SDEV2410\Ch6FixThis\Ch6FixThis\obj\Debug\Ch6FixThis.csprojAssemblyReference.cache
+D:\school\SDEV2410\Ch6FixThis\Ch6FixThis\obj\Debug\Ch6FixThis.csproj.CoreCompileInputs.cache
+D:\school\SDEV2410\Ch6FixThis\Ch6FixThis\obj\Debug\Ch6FixThis.exe
+D:\school\SDEV2410\Ch6FixThis\Ch6FixThis\obj\Debug\Ch6FixThis.pdb

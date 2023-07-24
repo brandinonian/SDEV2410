@@ -1,0 +1,15 @@
+D:\school\SDEV2410\Ch10DiceRolls\Ch10DiceRolls\bin\Debug\net6.0\Ch10DiceRolls.exe
+D:\school\SDEV2410\Ch10DiceRolls\Ch10DiceRolls\bin\Debug\net6.0\Ch10DiceRolls.deps.json
+D:\school\SDEV2410\Ch10DiceRolls\Ch10DiceRolls\bin\Debug\net6.0\Ch10DiceRolls.runtimeconfig.json
+D:\school\SDEV2410\Ch10DiceRolls\Ch10DiceRolls\bin\Debug\net6.0\Ch10DiceRolls.dll
+D:\school\SDEV2410\Ch10DiceRolls\Ch10DiceRolls\bin\Debug\net6.0\Ch10DiceRolls.pdb
+D:\school\SDEV2410\Ch10DiceRolls\Ch10DiceRolls\obj\Debug\net6.0\Ch10DiceRolls.csproj.AssemblyReference.cache
+D:\school\SDEV2410\Ch10DiceRolls\Ch10DiceRolls\obj\Debug\net6.0\Ch10DiceRolls.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\SDEV2410\Ch10DiceRolls\Ch10DiceRolls\obj\Debug\net6.0\Ch10DiceRolls.AssemblyInfoInputs.cache
+D:\school\SDEV2410\Ch10DiceRolls\Ch10DiceRolls\obj\Debug\net6.0\Ch10DiceRolls.AssemblyInfo.cs
+D:\school\SDEV2410\Ch10DiceRolls\Ch10DiceRolls\obj\Debug\net6.0\Ch10DiceRolls.csproj.CoreCompileInputs.cache
+D:\school\SDEV2410\Ch10DiceRolls\Ch10DiceRolls\obj\Debug\net6.0\Ch10DiceRolls.dll
+D:\school\SDEV2410\Ch10DiceRolls\Ch10DiceRolls\obj\Debug\net6.0\refint\Ch10DiceRolls.dll
+D:\school\SDEV2410\Ch10DiceRolls\Ch10DiceRolls\obj\Debug\net6.0\Ch10DiceRolls.pdb
+D:\school\SDEV2410\Ch10DiceRolls\Ch10DiceRolls\obj\Debug\net6.0\Ch10DiceRolls.genruntimeconfig.cache
+D:\school\SDEV2410\Ch10DiceRolls\Ch10DiceRolls\obj\Debug\net6.0\ref\Ch10DiceRolls.dll

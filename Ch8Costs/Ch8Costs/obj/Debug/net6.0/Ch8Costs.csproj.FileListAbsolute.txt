@@ -1,0 +1,30 @@
+/Volumes/Samsung USB/school/SDEV2410/Ch8Costs/Ch8Costs/bin/Debug/net6.0/Ch8Costs
+/Volumes/Samsung USB/school/SDEV2410/Ch8Costs/Ch8Costs/bin/Debug/net6.0/Ch8Costs.deps.json
+/Volumes/Samsung USB/school/SDEV2410/Ch8Costs/Ch8Costs/bin/Debug/net6.0/Ch8Costs.runtimeconfig.json
+/Volumes/Samsung USB/school/SDEV2410/Ch8Costs/Ch8Costs/bin/Debug/net6.0/Ch8Costs.dll
+/Volumes/Samsung USB/school/SDEV2410/Ch8Costs/Ch8Costs/bin/Debug/net6.0/Ch8Costs.pdb
+/Volumes/Samsung USB/school/SDEV2410/Ch8Costs/Ch8Costs/obj/Debug/net6.0/Ch8Costs.csproj.AssemblyReference.cache
+/Volumes/Samsung USB/school/SDEV2410/Ch8Costs/Ch8Costs/obj/Debug/net6.0/Ch8Costs.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Samsung USB/school/SDEV2410/Ch8Costs/Ch8Costs/obj/Debug/net6.0/Ch8Costs.AssemblyInfoInputs.cache
+/Volumes/Samsung USB/school/SDEV2410/Ch8Costs/Ch8Costs/obj/Debug/net6.0/Ch8Costs.AssemblyInfo.cs
+/Volumes/Samsung USB/school/SDEV2410/Ch8Costs/Ch8Costs/obj/Debug/net6.0/Ch8Costs.csproj.CoreCompileInputs.cache
+/Volumes/Samsung USB/school/SDEV2410/Ch8Costs/Ch8Costs/obj/Debug/net6.0/Ch8Costs.dll
+/Volumes/Samsung USB/school/SDEV2410/Ch8Costs/Ch8Costs/obj/Debug/net6.0/refint/Ch8Costs.dll
+/Volumes/Samsung USB/school/SDEV2410/Ch8Costs/Ch8Costs/obj/Debug/net6.0/Ch8Costs.pdb
+/Volumes/Samsung USB/school/SDEV2410/Ch8Costs/Ch8Costs/obj/Debug/net6.0/Ch8Costs.genruntimeconfig.cache
+/Volumes/Samsung USB/school/SDEV2410/Ch8Costs/Ch8Costs/obj/Debug/net6.0/ref/Ch8Costs.dll
+D:\school\SDEV2410\Ch8Costs\Ch8Costs\bin\Debug\net6.0\Ch8Costs.exe
+D:\school\SDEV2410\Ch8Costs\Ch8Costs\bin\Debug\net6.0\Ch8Costs.deps.json
+D:\school\SDEV2410\Ch8Costs\Ch8Costs\bin\Debug\net6.0\Ch8Costs.runtimeconfig.json
+D:\school\SDEV2410\Ch8Costs\Ch8Costs\bin\Debug\net6.0\Ch8Costs.dll
+D:\school\SDEV2410\Ch8Costs\Ch8Costs\bin\Debug\net6.0\Ch8Costs.pdb
+D:\school\SDEV2410\Ch8Costs\Ch8Costs\obj\Debug\net6.0\Ch8Costs.csproj.AssemblyReference.cache
+D:\school\SDEV2410\Ch8Costs\Ch8Costs\obj\Debug\net6.0\Ch8Costs.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\SDEV2410\Ch8Costs\Ch8Costs\obj\Debug\net6.0\Ch8Costs.AssemblyInfoInputs.cache
+D:\school\SDEV2410\Ch8Costs\Ch8Costs\obj\Debug\net6.0\Ch8Costs.AssemblyInfo.cs
+D:\school\SDEV2410\Ch8Costs\Ch8Costs\obj\Debug\net6.0\Ch8Costs.csproj.CoreCompileInputs.cache
+D:\school\SDEV2410\Ch8Costs\Ch8Costs\obj\Debug\net6.0\Ch8Costs.dll
+D:\school\SDEV2410\Ch8Costs\Ch8Costs\obj\Debug\net6.0\refint\Ch8Costs.dll
+D:\school\SDEV2410\Ch8Costs\Ch8Costs\obj\Debug\net6.0\Ch8Costs.pdb
+D:\school\SDEV2410\Ch8Costs\Ch8Costs\obj\Debug\net6.0\Ch8Costs.genruntimeconfig.cache
+D:\school\SDEV2410\Ch8Costs\Ch8Costs\obj\Debug\net6.0\ref\Ch8Costs.dll

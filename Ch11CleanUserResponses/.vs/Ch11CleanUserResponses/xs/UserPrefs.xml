@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{4D9F6DB6-A207-419B-8153-35ABFE086BB4}|Default">
+  <MonoDevelop.Ide.ItemProperties.Ch11CleanUserResponses PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ch11CleanUserResponses/Program.cs">
+    <Files>
+      <File FileName="Ch11CleanUserResponses/Program.cs" Line="36" Column="29" />
+      <File FileName="Ch11CleanUserResponses/Customer.cs" Line="20" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ch11CleanUserResponses" expanded="True">
+            <Node name="Ch11CleanUserResponses" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

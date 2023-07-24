@@ -1,0 +1,7 @@
+D:\school\SDEV2410\Ch5ContinentalConversion\Ch5ContinentalConversion\bin\Debug\Ch5ContinentalConversion.exe.config
+D:\school\SDEV2410\Ch5ContinentalConversion\Ch5ContinentalConversion\bin\Debug\Ch5ContinentalConversion.exe
+D:\school\SDEV2410\Ch5ContinentalConversion\Ch5ContinentalConversion\bin\Debug\Ch5ContinentalConversion.pdb
+D:\school\SDEV2410\Ch5ContinentalConversion\Ch5ContinentalConversion\obj\Debug\Ch5ContinentalConversion.csprojAssemblyReference.cache
+D:\school\SDEV2410\Ch5ContinentalConversion\Ch5ContinentalConversion\obj\Debug\Ch5ContinentalConversion.csproj.CoreCompileInputs.cache
+D:\school\SDEV2410\Ch5ContinentalConversion\Ch5ContinentalConversion\obj\Debug\Ch5ContinentalConversion.exe
+D:\school\SDEV2410\Ch5ContinentalConversion\Ch5ContinentalConversion\obj\Debug\Ch5ContinentalConversion.pdb

@@ -1,0 +1,15 @@
+D:\school\SDEV2410\Ch12InventorywithInheritance\Ch12InventorywithInheritance\bin\Debug\net6.0\Ch12InventorywithInheritance.exe
+D:\school\SDEV2410\Ch12InventorywithInheritance\Ch12InventorywithInheritance\bin\Debug\net6.0\Ch12InventorywithInheritance.deps.json
+D:\school\SDEV2410\Ch12InventorywithInheritance\Ch12InventorywithInheritance\bin\Debug\net6.0\Ch12InventorywithInheritance.runtimeconfig.json
+D:\school\SDEV2410\Ch12InventorywithInheritance\Ch12InventorywithInheritance\bin\Debug\net6.0\Ch12InventorywithInheritance.dll
+D:\school\SDEV2410\Ch12InventorywithInheritance\Ch12InventorywithInheritance\bin\Debug\net6.0\Ch12InventorywithInheritance.pdb
+D:\school\SDEV2410\Ch12InventorywithInheritance\Ch12InventorywithInheritance\obj\Debug\net6.0\Ch12InventorywithInheritance.csproj.AssemblyReference.cache
+D:\school\SDEV2410\Ch12InventorywithInheritance\Ch12InventorywithInheritance\obj\Debug\net6.0\Ch12InventorywithInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\SDEV2410\Ch12InventorywithInheritance\Ch12InventorywithInheritance\obj\Debug\net6.0\Ch12InventorywithInheritance.AssemblyInfoInputs.cache
+D:\school\SDEV2410\Ch12InventorywithInheritance\Ch12InventorywithInheritance\obj\Debug\net6.0\Ch12InventorywithInheritance.AssemblyInfo.cs
+D:\school\SDEV2410\Ch12InventorywithInheritance\Ch12InventorywithInheritance\obj\Debug\net6.0\Ch12InventorywithInheritance.csproj.CoreCompileInputs.cache
+D:\school\SDEV2410\Ch12InventorywithInheritance\Ch12InventorywithInheritance\obj\Debug\net6.0\Ch12InventorywithInheritance.dll
+D:\school\SDEV2410\Ch12InventorywithInheritance\Ch12InventorywithInheritance\obj\Debug\net6.0\refint\Ch12InventorywithInheritance.dll
+D:\school\SDEV2410\Ch12InventorywithInheritance\Ch12InventorywithInheritance\obj\Debug\net6.0\Ch12InventorywithInheritance.pdb
+D:\school\SDEV2410\Ch12InventorywithInheritance\Ch12InventorywithInheritance\obj\Debug\net6.0\Ch12InventorywithInheritance.genruntimeconfig.cache
+D:\school\SDEV2410\Ch12InventorywithInheritance\Ch12InventorywithInheritance\obj\Debug\net6.0\ref\Ch12InventorywithInheritance.dll

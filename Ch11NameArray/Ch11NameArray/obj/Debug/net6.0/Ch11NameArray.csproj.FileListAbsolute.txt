@@ -1,0 +1,45 @@
+/Volumes/Samsung USB/school/SDEV2410/Ch11NameArray/Ch11NameArray/bin/Debug/net6.0/Ch11NameArray
+/Volumes/Samsung USB/school/SDEV2410/Ch11NameArray/Ch11NameArray/bin/Debug/net6.0/Ch11NameArray.deps.json
+/Volumes/Samsung USB/school/SDEV2410/Ch11NameArray/Ch11NameArray/bin/Debug/net6.0/Ch11NameArray.runtimeconfig.json
+/Volumes/Samsung USB/school/SDEV2410/Ch11NameArray/Ch11NameArray/bin/Debug/net6.0/Ch11NameArray.dll
+/Volumes/Samsung USB/school/SDEV2410/Ch11NameArray/Ch11NameArray/bin/Debug/net6.0/Ch11NameArray.pdb
+/Volumes/Samsung USB/school/SDEV2410/Ch11NameArray/Ch11NameArray/obj/Debug/net6.0/Ch11NameArray.csproj.AssemblyReference.cache
+/Volumes/Samsung USB/school/SDEV2410/Ch11NameArray/Ch11NameArray/obj/Debug/net6.0/Ch11NameArray.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Samsung USB/school/SDEV2410/Ch11NameArray/Ch11NameArray/obj/Debug/net6.0/Ch11NameArray.AssemblyInfoInputs.cache
+/Volumes/Samsung USB/school/SDEV2410/Ch11NameArray/Ch11NameArray/obj/Debug/net6.0/Ch11NameArray.AssemblyInfo.cs
+/Volumes/Samsung USB/school/SDEV2410/Ch11NameArray/Ch11NameArray/obj/Debug/net6.0/Ch11NameArray.csproj.CoreCompileInputs.cache
+/Volumes/Samsung USB/school/SDEV2410/Ch11NameArray/Ch11NameArray/obj/Debug/net6.0/Ch11NameArray.dll
+/Volumes/Samsung USB/school/SDEV2410/Ch11NameArray/Ch11NameArray/obj/Debug/net6.0/refint/Ch11NameArray.dll
+/Volumes/Samsung USB/school/SDEV2410/Ch11NameArray/Ch11NameArray/obj/Debug/net6.0/Ch11NameArray.pdb
+/Volumes/Samsung USB/school/SDEV2410/Ch11NameArray/Ch11NameArray/obj/Debug/net6.0/Ch11NameArray.genruntimeconfig.cache
+/Volumes/Samsung USB/school/SDEV2410/Ch11NameArray/Ch11NameArray/obj/Debug/net6.0/ref/Ch11NameArray.dll
+/Volumes/SAMSUNGUSB/school/SDEV2410/Ch11NameArray/Ch11NameArray/bin/Debug/net6.0/Ch11NameArray
+/Volumes/SAMSUNGUSB/school/SDEV2410/Ch11NameArray/Ch11NameArray/bin/Debug/net6.0/Ch11NameArray.deps.json
+/Volumes/SAMSUNGUSB/school/SDEV2410/Ch11NameArray/Ch11NameArray/bin/Debug/net6.0/Ch11NameArray.runtimeconfig.json
+/Volumes/SAMSUNGUSB/school/SDEV2410/Ch11NameArray/Ch11NameArray/bin/Debug/net6.0/Ch11NameArray.dll
+/Volumes/SAMSUNGUSB/school/SDEV2410/Ch11NameArray/Ch11NameArray/bin/Debug/net6.0/Ch11NameArray.pdb
+/Volumes/SAMSUNGUSB/school/SDEV2410/Ch11NameArray/Ch11NameArray/obj/Debug/net6.0/Ch11NameArray.csproj.AssemblyReference.cache
+/Volumes/SAMSUNGUSB/school/SDEV2410/Ch11NameArray/Ch11NameArray/obj/Debug/net6.0/Ch11NameArray.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/SAMSUNGUSB/school/SDEV2410/Ch11NameArray/Ch11NameArray/obj/Debug/net6.0/Ch11NameArray.AssemblyInfoInputs.cache
+/Volumes/SAMSUNGUSB/school/SDEV2410/Ch11NameArray/Ch11NameArray/obj/Debug/net6.0/Ch11NameArray.AssemblyInfo.cs
+/Volumes/SAMSUNGUSB/school/SDEV2410/Ch11NameArray/Ch11NameArray/obj/Debug/net6.0/Ch11NameArray.csproj.CoreCompileInputs.cache
+/Volumes/SAMSUNGUSB/school/SDEV2410/Ch11NameArray/Ch11NameArray/obj/Debug/net6.0/Ch11NameArray.dll
+/Volumes/SAMSUNGUSB/school/SDEV2410/Ch11NameArray/Ch11NameArray/obj/Debug/net6.0/refint/Ch11NameArray.dll
+/Volumes/SAMSUNGUSB/school/SDEV2410/Ch11NameArray/Ch11NameArray/obj/Debug/net6.0/Ch11NameArray.pdb
+/Volumes/SAMSUNGUSB/school/SDEV2410/Ch11NameArray/Ch11NameArray/obj/Debug/net6.0/Ch11NameArray.genruntimeconfig.cache
+/Volumes/SAMSUNGUSB/school/SDEV2410/Ch11NameArray/Ch11NameArray/obj/Debug/net6.0/ref/Ch11NameArray.dll
+D:\school\SDEV2410\Ch11NameArray\Ch11NameArray\bin\Debug\net6.0\Ch11NameArray.exe
+D:\school\SDEV2410\Ch11NameArray\Ch11NameArray\bin\Debug\net6.0\Ch11NameArray.deps.json
+D:\school\SDEV2410\Ch11NameArray\Ch11NameArray\bin\Debug\net6.0\Ch11NameArray.runtimeconfig.json
+D:\school\SDEV2410\Ch11NameArray\Ch11NameArray\bin\Debug\net6.0\Ch11NameArray.dll
+D:\school\SDEV2410\Ch11NameArray\Ch11NameArray\bin\Debug\net6.0\Ch11NameArray.pdb
+D:\school\SDEV2410\Ch11NameArray\Ch11NameArray\obj\Debug\net6.0\Ch11NameArray.csproj.AssemblyReference.cache
+D:\school\SDEV2410\Ch11NameArray\Ch11NameArray\obj\Debug\net6.0\Ch11NameArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\SDEV2410\Ch11NameArray\Ch11NameArray\obj\Debug\net6.0\Ch11NameArray.AssemblyInfoInputs.cache
+D:\school\SDEV2410\Ch11NameArray\Ch11NameArray\obj\Debug\net6.0\Ch11NameArray.AssemblyInfo.cs
+D:\school\SDEV2410\Ch11NameArray\Ch11NameArray\obj\Debug\net6.0\Ch11NameArray.csproj.CoreCompileInputs.cache
+D:\school\SDEV2410\Ch11NameArray\Ch11NameArray\obj\Debug\net6.0\Ch11NameArray.dll
+D:\school\SDEV2410\Ch11NameArray\Ch11NameArray\obj\Debug\net6.0\refint\Ch11NameArray.dll
+D:\school\SDEV2410\Ch11NameArray\Ch11NameArray\obj\Debug\net6.0\Ch11NameArray.pdb
+D:\school\SDEV2410\Ch11NameArray\Ch11NameArray\obj\Debug\net6.0\Ch11NameArray.genruntimeconfig.cache
+D:\school\SDEV2410\Ch11NameArray\Ch11NameArray\obj\Debug\net6.0\ref\Ch11NameArray.dll

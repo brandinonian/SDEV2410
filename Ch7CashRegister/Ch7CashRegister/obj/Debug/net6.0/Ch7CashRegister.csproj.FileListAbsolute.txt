@@ -1,0 +1,15 @@
+D:\school\SDEV2410\Ch7CashRegister\Ch7CashRegister\bin\Debug\net6.0\Ch7CashRegister.exe
+D:\school\SDEV2410\Ch7CashRegister\Ch7CashRegister\bin\Debug\net6.0\Ch7CashRegister.deps.json
+D:\school\SDEV2410\Ch7CashRegister\Ch7CashRegister\bin\Debug\net6.0\Ch7CashRegister.runtimeconfig.json
+D:\school\SDEV2410\Ch7CashRegister\Ch7CashRegister\bin\Debug\net6.0\Ch7CashRegister.dll
+D:\school\SDEV2410\Ch7CashRegister\Ch7CashRegister\bin\Debug\net6.0\Ch7CashRegister.pdb
+D:\school\SDEV2410\Ch7CashRegister\Ch7CashRegister\obj\Debug\net6.0\Ch7CashRegister.csproj.AssemblyReference.cache
+D:\school\SDEV2410\Ch7CashRegister\Ch7CashRegister\obj\Debug\net6.0\Ch7CashRegister.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\SDEV2410\Ch7CashRegister\Ch7CashRegister\obj\Debug\net6.0\Ch7CashRegister.AssemblyInfoInputs.cache
+D:\school\SDEV2410\Ch7CashRegister\Ch7CashRegister\obj\Debug\net6.0\Ch7CashRegister.AssemblyInfo.cs
+D:\school\SDEV2410\Ch7CashRegister\Ch7CashRegister\obj\Debug\net6.0\Ch7CashRegister.csproj.CoreCompileInputs.cache
+D:\school\SDEV2410\Ch7CashRegister\Ch7CashRegister\obj\Debug\net6.0\Ch7CashRegister.dll
+D:\school\SDEV2410\Ch7CashRegister\Ch7CashRegister\obj\Debug\net6.0\refint\Ch7CashRegister.dll
+D:\school\SDEV2410\Ch7CashRegister\Ch7CashRegister\obj\Debug\net6.0\Ch7CashRegister.pdb
+D:\school\SDEV2410\Ch7CashRegister\Ch7CashRegister\obj\Debug\net6.0\Ch7CashRegister.genruntimeconfig.cache
+D:\school\SDEV2410\Ch7CashRegister\Ch7CashRegister\obj\Debug\net6.0\ref\Ch7CashRegister.dll

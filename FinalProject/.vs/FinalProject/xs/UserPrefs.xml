@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{8459EB9E-1EC2-4F7C-BA32-926737E1463F}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FinalProject/Purchasing.cs">
+    <Files>
+      <File FileName="FinalProject/Program.cs" Line="9" Column="24" />
+      <File FileName="FinalProject/Item.cs" Line="10" Column="26" />
+      <File FileName="FinalProject/Shipping.cs" Line="44" Column="41" />
+      <File FileName="FinalProject/Purchasing.cs" Line="24" Column="1" />
+      <File FileName="FinalProject/ICalculateCost.cs" Line="5" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FinalProject" expanded="True">
+            <Node name="FinalProject" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FinalProject PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

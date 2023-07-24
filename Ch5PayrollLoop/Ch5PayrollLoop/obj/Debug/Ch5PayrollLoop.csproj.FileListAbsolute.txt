@@ -1,0 +1,8 @@
+D:\school\SDEV2410\Ch5PayrollLoop\Ch5PayrollLoop\bin\Debug\Ch5PayrollLoop.exe.config
+D:\school\SDEV2410\Ch5PayrollLoop\Ch5PayrollLoop\bin\Debug\Ch5PayrollLoop.exe
+D:\school\SDEV2410\Ch5PayrollLoop\Ch5PayrollLoop\bin\Debug\Ch5PayrollLoop.pdb
+D:\school\SDEV2410\Ch5PayrollLoop\Ch5PayrollLoop\obj\Debug\Ch5PayrollLoop.csproj.CoreCompileInputs.cache
+D:\school\SDEV2410\Ch5PayrollLoop\Ch5PayrollLoop\obj\Debug\Ch5PayrollLoop.exe
+D:\school\SDEV2410\Ch5PayrollLoop\Ch5PayrollLoop\obj\Debug\Ch5PayrollLoop.pdb
+D:\school\SDEV2410\Ch5PayrollLoop\Ch5PayrollLoop\obj\Debug\Ch5PayrollLoop.csproj.AssemblyReference.cache
+D:\school\SDEV2410\Ch5PayrollLoop\Ch5PayrollLoop\obj\Debug\Ch5PayrollLoop.csproj.SuggestedBindingRedirects.cache

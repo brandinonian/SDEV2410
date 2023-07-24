@@ -1,0 +1,10 @@
+D:\school\SDEV2410\Ch4AnnualBonus\Ch4AnnualBonus\bin\Debug\Ch4AnnualBonus.exe.config
+D:\school\SDEV2410\Ch4AnnualBonus\Ch4AnnualBonus\bin\Debug\Ch4AnnualBonus.exe
+D:\school\SDEV2410\Ch4AnnualBonus\Ch4AnnualBonus\bin\Debug\Ch4AnnualBonus.pdb
+D:\school\SDEV2410\Ch4AnnualBonus\Ch4AnnualBonus\obj\Debug\Ch4AnnualBonus.csprojAssemblyReference.cache
+D:\school\SDEV2410\Ch4AnnualBonus\Ch4AnnualBonus\obj\Debug\Ch4AnnualBonus.Form1.resources
+D:\school\SDEV2410\Ch4AnnualBonus\Ch4AnnualBonus\obj\Debug\Ch4AnnualBonus.Properties.Resources.resources
+D:\school\SDEV2410\Ch4AnnualBonus\Ch4AnnualBonus\obj\Debug\Ch4AnnualBonus.csproj.GenerateResource.cache
+D:\school\SDEV2410\Ch4AnnualBonus\Ch4AnnualBonus\obj\Debug\Ch4AnnualBonus.csproj.CoreCompileInputs.cache
+D:\school\SDEV2410\Ch4AnnualBonus\Ch4AnnualBonus\obj\Debug\Ch4AnnualBonus.exe
+D:\school\SDEV2410\Ch4AnnualBonus\Ch4AnnualBonus\obj\Debug\Ch4AnnualBonus.pdb

@@ -1,0 +1,15 @@
+D:\school\SDEV2410\Ch9Banking\Ch9Banking\bin\Debug\net6.0\Ch9Banking.exe
+D:\school\SDEV2410\Ch9Banking\Ch9Banking\bin\Debug\net6.0\Ch9Banking.deps.json
+D:\school\SDEV2410\Ch9Banking\Ch9Banking\bin\Debug\net6.0\Ch9Banking.runtimeconfig.json
+D:\school\SDEV2410\Ch9Banking\Ch9Banking\bin\Debug\net6.0\Ch9Banking.dll
+D:\school\SDEV2410\Ch9Banking\Ch9Banking\bin\Debug\net6.0\Ch9Banking.pdb
+D:\school\SDEV2410\Ch9Banking\Ch9Banking\obj\Debug\net6.0\Ch9Banking.csproj.AssemblyReference.cache
+D:\school\SDEV2410\Ch9Banking\Ch9Banking\obj\Debug\net6.0\Ch9Banking.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\SDEV2410\Ch9Banking\Ch9Banking\obj\Debug\net6.0\Ch9Banking.AssemblyInfoInputs.cache
+D:\school\SDEV2410\Ch9Banking\Ch9Banking\obj\Debug\net6.0\Ch9Banking.AssemblyInfo.cs
+D:\school\SDEV2410\Ch9Banking\Ch9Banking\obj\Debug\net6.0\Ch9Banking.csproj.CoreCompileInputs.cache
+D:\school\SDEV2410\Ch9Banking\Ch9Banking\obj\Debug\net6.0\Ch9Banking.dll
+D:\school\SDEV2410\Ch9Banking\Ch9Banking\obj\Debug\net6.0\refint\Ch9Banking.dll
+D:\school\SDEV2410\Ch9Banking\Ch9Banking\obj\Debug\net6.0\Ch9Banking.pdb
+D:\school\SDEV2410\Ch9Banking\Ch9Banking\obj\Debug\net6.0\Ch9Banking.genruntimeconfig.cache
+D:\school\SDEV2410\Ch9Banking\Ch9Banking\obj\Debug\net6.0\ref\Ch9Banking.dll

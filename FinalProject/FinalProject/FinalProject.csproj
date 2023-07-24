@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="._ICalculateCost.cs" />
+    <Compile Remove="._Item.cs" />
+    <Compile Remove="._Program.cs" />
+    <Compile Remove="._Purchasing.cs" />
+    <Compile Remove="._Shipping.cs" />
+  </ItemGroup>
+
+</Project>

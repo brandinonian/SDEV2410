@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{DE8B8633-BD80-4110-8033-85DBF31AA644}|Default">
+  <MonoDevelop.Ide.ItemProperties.Ch13ComparingEmployees PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ch13ComparingEmployees/Program.cs">
+    <Files>
+      <File FileName="Ch13ComparingEmployees/Program.cs" Line="19" Column="46" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ch13ComparingEmployees" expanded="True">
+            <Node name="Ch13ComparingEmployees" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

@@ -1,0 +1,15 @@
+D:\school\SDEV2410\M3CompetencyPurchases\M3CompetencyPurchases\bin\Debug\net6.0\M3CompetencyPurchases.exe
+D:\school\SDEV2410\M3CompetencyPurchases\M3CompetencyPurchases\bin\Debug\net6.0\M3CompetencyPurchases.deps.json
+D:\school\SDEV2410\M3CompetencyPurchases\M3CompetencyPurchases\bin\Debug\net6.0\M3CompetencyPurchases.runtimeconfig.json
+D:\school\SDEV2410\M3CompetencyPurchases\M3CompetencyPurchases\bin\Debug\net6.0\M3CompetencyPurchases.dll
+D:\school\SDEV2410\M3CompetencyPurchases\M3CompetencyPurchases\bin\Debug\net6.0\M3CompetencyPurchases.pdb
+D:\school\SDEV2410\M3CompetencyPurchases\M3CompetencyPurchases\obj\Debug\net6.0\M3CompetencyPurchases.csproj.AssemblyReference.cache
+D:\school\SDEV2410\M3CompetencyPurchases\M3CompetencyPurchases\obj\Debug\net6.0\M3CompetencyPurchases.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\SDEV2410\M3CompetencyPurchases\M3CompetencyPurchases\obj\Debug\net6.0\M3CompetencyPurchases.AssemblyInfoInputs.cache
+D:\school\SDEV2410\M3CompetencyPurchases\M3CompetencyPurchases\obj\Debug\net6.0\M3CompetencyPurchases.AssemblyInfo.cs
+D:\school\SDEV2410\M3CompetencyPurchases\M3CompetencyPurchases\obj\Debug\net6.0\M3CompetencyPurchases.csproj.CoreCompileInputs.cache
+D:\school\SDEV2410\M3CompetencyPurchases\M3CompetencyPurchases\obj\Debug\net6.0\M3CompetencyPurchases.dll
+D:\school\SDEV2410\M3CompetencyPurchases\M3CompetencyPurchases\obj\Debug\net6.0\refint\M3CompetencyPurchases.dll
+D:\school\SDEV2410\M3CompetencyPurchases\M3CompetencyPurchases\obj\Debug\net6.0\M3CompetencyPurchases.pdb
+D:\school\SDEV2410\M3CompetencyPurchases\M3CompetencyPurchases\obj\Debug\net6.0\M3CompetencyPurchases.genruntimeconfig.cache
+D:\school\SDEV2410\M3CompetencyPurchases\M3CompetencyPurchases\obj\Debug\net6.0\ref\M3CompetencyPurchases.dll

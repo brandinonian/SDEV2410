@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{80E9887E-FE49-4140-814B-67D44ECD837C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ch13PayrollAbstract/Program.cs">
+    <Files>
+      <File FileName="Ch13PayrollAbstract/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ch13PayrollAbstract" expanded="True">
+            <Node name="Ch13PayrollAbstract" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Ch13PayrollAbstract PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

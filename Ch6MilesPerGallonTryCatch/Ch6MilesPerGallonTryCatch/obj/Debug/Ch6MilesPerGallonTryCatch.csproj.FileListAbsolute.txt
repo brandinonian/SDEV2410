@@ -1,0 +1,14 @@
+C:\Users\user1\source\repos\Ch6MilesPerGallonTryCatch\Ch6MilesPerGallonTryCatch\bin\Debug\Ch6MilesPerGallonTryCatch.exe.config
+C:\Users\user1\source\repos\Ch6MilesPerGallonTryCatch\Ch6MilesPerGallonTryCatch\bin\Debug\Ch6MilesPerGallonTryCatch.exe
+C:\Users\user1\source\repos\Ch6MilesPerGallonTryCatch\Ch6MilesPerGallonTryCatch\bin\Debug\Ch6MilesPerGallonTryCatch.pdb
+C:\Users\user1\source\repos\Ch6MilesPerGallonTryCatch\Ch6MilesPerGallonTryCatch\obj\Debug\Ch6MilesPerGallonTryCatch.csprojAssemblyReference.cache
+C:\Users\user1\source\repos\Ch6MilesPerGallonTryCatch\Ch6MilesPerGallonTryCatch\obj\Debug\Ch6MilesPerGallonTryCatch.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Ch6MilesPerGallonTryCatch\Ch6MilesPerGallonTryCatch\obj\Debug\Ch6MilesPerGallonTryCatch.exe
+C:\Users\user1\source\repos\Ch6MilesPerGallonTryCatch\Ch6MilesPerGallonTryCatch\obj\Debug\Ch6MilesPerGallonTryCatch.pdb
+D:\school\SDEV2410\Ch6MilesPerGallonTryCatch\Ch6MilesPerGallonTryCatch\bin\Debug\Ch6MilesPerGallonTryCatch.exe.config
+D:\school\SDEV2410\Ch6MilesPerGallonTryCatch\Ch6MilesPerGallonTryCatch\bin\Debug\Ch6MilesPerGallonTryCatch.exe
+D:\school\SDEV2410\Ch6MilesPerGallonTryCatch\Ch6MilesPerGallonTryCatch\bin\Debug\Ch6MilesPerGallonTryCatch.pdb
+D:\school\SDEV2410\Ch6MilesPerGallonTryCatch\Ch6MilesPerGallonTryCatch\obj\Debug\Ch6MilesPerGallonTryCatch.csprojAssemblyReference.cache
+D:\school\SDEV2410\Ch6MilesPerGallonTryCatch\Ch6MilesPerGallonTryCatch\obj\Debug\Ch6MilesPerGallonTryCatch.csproj.CoreCompileInputs.cache
+D:\school\SDEV2410\Ch6MilesPerGallonTryCatch\Ch6MilesPerGallonTryCatch\obj\Debug\Ch6MilesPerGallonTryCatch.exe
+D:\school\SDEV2410\Ch6MilesPerGallonTryCatch\Ch6MilesPerGallonTryCatch\obj\Debug\Ch6MilesPerGallonTryCatch.pdb

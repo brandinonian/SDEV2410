@@ -1,0 +1,15 @@
+D:\school\SDEV2410\Ch7BirthdayBonus\Ch7BirthdayBonus\bin\Debug\net6.0\Ch7BirthdayBonus.exe
+D:\school\SDEV2410\Ch7BirthdayBonus\Ch7BirthdayBonus\bin\Debug\net6.0\Ch7BirthdayBonus.deps.json
+D:\school\SDEV2410\Ch7BirthdayBonus\Ch7BirthdayBonus\bin\Debug\net6.0\Ch7BirthdayBonus.runtimeconfig.json
+D:\school\SDEV2410\Ch7BirthdayBonus\Ch7BirthdayBonus\bin\Debug\net6.0\Ch7BirthdayBonus.dll
+D:\school\SDEV2410\Ch7BirthdayBonus\Ch7BirthdayBonus\bin\Debug\net6.0\Ch7BirthdayBonus.pdb
+D:\school\SDEV2410\Ch7BirthdayBonus\Ch7BirthdayBonus\obj\Debug\net6.0\Ch7BirthdayBonus.csproj.AssemblyReference.cache
+D:\school\SDEV2410\Ch7BirthdayBonus\Ch7BirthdayBonus\obj\Debug\net6.0\Ch7BirthdayBonus.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\SDEV2410\Ch7BirthdayBonus\Ch7BirthdayBonus\obj\Debug\net6.0\Ch7BirthdayBonus.AssemblyInfoInputs.cache
+D:\school\SDEV2410\Ch7BirthdayBonus\Ch7BirthdayBonus\obj\Debug\net6.0\Ch7BirthdayBonus.AssemblyInfo.cs
+D:\school\SDEV2410\Ch7BirthdayBonus\Ch7BirthdayBonus\obj\Debug\net6.0\Ch7BirthdayBonus.csproj.CoreCompileInputs.cache
+D:\school\SDEV2410\Ch7BirthdayBonus\Ch7BirthdayBonus\obj\Debug\net6.0\Ch7BirthdayBonus.dll
+D:\school\SDEV2410\Ch7BirthdayBonus\Ch7BirthdayBonus\obj\Debug\net6.0\refint\Ch7BirthdayBonus.dll
+D:\school\SDEV2410\Ch7BirthdayBonus\Ch7BirthdayBonus\obj\Debug\net6.0\Ch7BirthdayBonus.pdb
+D:\school\SDEV2410\Ch7BirthdayBonus\Ch7BirthdayBonus\obj\Debug\net6.0\Ch7BirthdayBonus.genruntimeconfig.cache
+D:\school\SDEV2410\Ch7BirthdayBonus\Ch7BirthdayBonus\obj\Debug\net6.0\ref\Ch7BirthdayBonus.dll

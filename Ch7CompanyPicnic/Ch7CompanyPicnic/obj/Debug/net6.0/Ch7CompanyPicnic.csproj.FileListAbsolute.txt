@@ -1,0 +1,15 @@
+D:\school\SDEV2410\Ch7CompanyPicnic\Ch7CompanyPicnic\obj\Debug\net6.0\Ch7CompanyPicnic.csproj.AssemblyReference.cache
+D:\school\SDEV2410\Ch7CompanyPicnic\Ch7CompanyPicnic\obj\Debug\net6.0\Ch7CompanyPicnic.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\SDEV2410\Ch7CompanyPicnic\Ch7CompanyPicnic\obj\Debug\net6.0\Ch7CompanyPicnic.AssemblyInfoInputs.cache
+D:\school\SDEV2410\Ch7CompanyPicnic\Ch7CompanyPicnic\obj\Debug\net6.0\Ch7CompanyPicnic.AssemblyInfo.cs
+D:\school\SDEV2410\Ch7CompanyPicnic\Ch7CompanyPicnic\obj\Debug\net6.0\Ch7CompanyPicnic.csproj.CoreCompileInputs.cache
+D:\school\SDEV2410\Ch7CompanyPicnic\Ch7CompanyPicnic\bin\Debug\net6.0\Ch7CompanyPicnic.exe
+D:\school\SDEV2410\Ch7CompanyPicnic\Ch7CompanyPicnic\bin\Debug\net6.0\Ch7CompanyPicnic.deps.json
+D:\school\SDEV2410\Ch7CompanyPicnic\Ch7CompanyPicnic\bin\Debug\net6.0\Ch7CompanyPicnic.runtimeconfig.json
+D:\school\SDEV2410\Ch7CompanyPicnic\Ch7CompanyPicnic\bin\Debug\net6.0\Ch7CompanyPicnic.dll
+D:\school\SDEV2410\Ch7CompanyPicnic\Ch7CompanyPicnic\bin\Debug\net6.0\Ch7CompanyPicnic.pdb
+D:\school\SDEV2410\Ch7CompanyPicnic\Ch7CompanyPicnic\obj\Debug\net6.0\Ch7CompanyPicnic.dll
+D:\school\SDEV2410\Ch7CompanyPicnic\Ch7CompanyPicnic\obj\Debug\net6.0\refint\Ch7CompanyPicnic.dll
+D:\school\SDEV2410\Ch7CompanyPicnic\Ch7CompanyPicnic\obj\Debug\net6.0\Ch7CompanyPicnic.pdb
+D:\school\SDEV2410\Ch7CompanyPicnic\Ch7CompanyPicnic\obj\Debug\net6.0\Ch7CompanyPicnic.genruntimeconfig.cache
+D:\school\SDEV2410\Ch7CompanyPicnic\Ch7CompanyPicnic\obj\Debug\net6.0\ref\Ch7CompanyPicnic.dll

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{B9B3E89D-0968-4E7E-8B6E-A7CA06C6403E}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Ch11SalesQuotas PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ch11SalesQuotas/Program.cs">
+    <Files>
+      <File FileName="Ch11SalesQuotas/Program.cs" Line="22" Column="61" />
+      <File FileName="Ch11SalesQuotas/Employee.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ch11SalesQuotas" expanded="True">
+            <Node name="Ch11SalesQuotas" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

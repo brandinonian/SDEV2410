@@ -1,0 +1,10 @@
+C:\Users\user1\source\repos\Ch2SnackStand\Ch2SnackStand\bin\Debug\Ch2SnackStand.exe.config
+C:\Users\user1\source\repos\Ch2SnackStand\Ch2SnackStand\bin\Debug\Ch2SnackStand.exe
+C:\Users\user1\source\repos\Ch2SnackStand\Ch2SnackStand\bin\Debug\Ch2SnackStand.pdb
+C:\Users\user1\source\repos\Ch2SnackStand\Ch2SnackStand\obj\Debug\Ch2SnackStand.csprojAssemblyReference.cache
+C:\Users\user1\source\repos\Ch2SnackStand\Ch2SnackStand\obj\Debug\Ch2SnackStand.Form1.resources
+C:\Users\user1\source\repos\Ch2SnackStand\Ch2SnackStand\obj\Debug\Ch2SnackStand.Properties.Resources.resources
+C:\Users\user1\source\repos\Ch2SnackStand\Ch2SnackStand\obj\Debug\Ch2SnackStand.csproj.GenerateResource.cache
+C:\Users\user1\source\repos\Ch2SnackStand\Ch2SnackStand\obj\Debug\Ch2SnackStand.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Ch2SnackStand\Ch2SnackStand\obj\Debug\Ch2SnackStand.exe
+C:\Users\user1\source\repos\Ch2SnackStand\Ch2SnackStand\obj\Debug\Ch2SnackStand.pdb
